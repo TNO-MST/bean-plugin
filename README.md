@@ -1,3 +1,7 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/TNO-MST/bean-plugin/build-publish-jar.yaml?branch=main&label=build&event=push)
+[![Maven Central Version](https://img.shields.io/maven-central/v/nl.tno/bean-plugin)](https://central.sonatype.com/artifact/nl.tno/bean-plugin)
+[![javadoc](https://javadoc.io/badge2/nl.tno/bean-plugin/javadoc.svg)](https://javadoc.io/doc/nl.tno/bean-plugin) 
+
 # Maven Java Bean plugin
 
 This project provides functionality to generate Java Beans from HLA FOM modules as part of the Maven build process.
